@@ -6,8 +6,8 @@ def create_an_array
   things_to_be_grateful_for = ["Love", "Family", "Happiness", "Health"]
 end
 
-def add_element_to_end_of_array
-  things_to_be_grateful_for << "Hope"
+def add_element_to_end_of_array(things_to_be_grateful_for << "Hope")
+
 end
 
 def add_element_to_start_of_array(array, element)
