@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  things_to_be_grateful_for = ["Love", "Family", "Happiness", "Health"]
+  ["wow", "I", "really", "am", "learning"]
 end
 
 def add_element_to_end_of_array
